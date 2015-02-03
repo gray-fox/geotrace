@@ -12,7 +12,7 @@ sudo pip install argparse pygeoip pygmaps scapy ansicolors
 
 #Usage:
 
-locating ip or domain:
+geo locating ip or domain:
 python geotrace.py -t [ip/domain]
 
 geo traceroute:
