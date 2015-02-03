@@ -1,7 +1,13 @@
 # geotrace
-Geotrace locates or "traceroutes" IP address/domain name(for *nix machines forn now.)
-It gives info of the geographical location and creates map based on that info.
+(Only *nix machines for now)
 
+Locate or "traceroute" IP address/domain name.
+Geotrace gives info of the geographical location and creates map based on that info.
+
+#Depencies
+argparse, pygeoip, pygmaps, scapy, ansicolors
+Installation with pip:
+sudo pip install argparse pygeoip pygmaps scapy ansicolors
 
 Usage:
 
