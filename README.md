@@ -1,6 +1,6 @@
 # geotrace
-Geographical ip locating and traceroute that locates or "traceroutes" IP address/domain name for *nix machines.
-It gives info of the geo location and creates map based on info.
+Geotrace locates or "traceroutes" IP address/domain name(for *nix machines forn now.)
+It gives info of the geographical location and creates map based on that info.
 
 
 Usage:
