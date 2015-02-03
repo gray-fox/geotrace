@@ -9,13 +9,13 @@ argparse, pygeoip, pygmaps, scapy, ansicolors
 Installation with pip:
 sudo pip install argparse pygeoip pygmaps scapy ansicolors
 
-Usage:
+#Usage:
 
-#locating ip or domain
+locating ip or domain:
 python geotrace.py -t [ip/domain]
 
-#geo traceroute
+geo traceroute:
 python geotrace.py -gT [ip/domain]
 
-#update/download maxmind's database
+update/download maxmind's database:
 python geotrace.py -d
