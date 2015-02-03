@@ -6,6 +6,7 @@ Geotrace gives info of the geographical location and creates map based on that i
 
 #Depencies
 argparse, pygeoip, pygmaps, scapy, ansicolors
+
 Installation with pip:
 sudo pip install argparse pygeoip pygmaps scapy ansicolors
 
