@@ -1,7 +1,7 @@
 # geotrace
 (Only *nix machines for now)
 
-Locate or "traceroute" IP address/domain name.
+Geographically locate or traceroute IP addresse/domain name.
 Geotrace gives info of the geographical location and creates map based on that info.
 
 #Depencies
